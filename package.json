@@ -19,12 +19,12 @@
   },
   "dependencies": {
     "qs": "^6.2.0",
+    "jshint": "^2.9.1",
+    "q": "^1.4.1",
     "request": "^2.72.0"
   },
   "devDependencies": {
     "nock": "8.0.0",
-    "jshint": "^2.9.1",
-    "q": "^1.4.1",
     "vows": "^0.8.1"
   }
 }
